@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</title>{nicolly} Criação de sites e plataformas</title>
+<link rel="stylesheet" href="../css/estilos.css">
+</head>
+<!-- Faixa do topo-->
+</body>
+<div class="topo">
+{nicolly fradique} Criação de sites e plataformas
+</div>
+<!--Menu de navegação-->
+<div id="menu">
+<div class="itens-do-menu">
+<a href=",,/index.html">inicio</a>
+</div>
+</div class='itens-do-menu-active'>
+informações pessoais
+</div>
+<div class="itens-do-menu"
+<a href="../pages/objetivos-profissionais.html"> objetivos profissionais </a>
+</div>
+<div class="itens-do-menu"
+<a href="..pages/curriculo.html">curriculo</a>
+</div>
+<div class="itens-do-menu">
+<a href="../pages/portifolio.html">contato<
+Foto do perfil de nicollybc
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</title>{nicolly} Criação de sites e plataformas</title>
+<link rel="stylesheet" href="../css/estilos.css">
+</head>
+<!-- Faixa do topo-->
+</body>
+<div class="topo">
+{nicolly fradique} Criação de sites e plataformas
+</div>
+<!--Menu de navegação-->
+<div id="menu">
+<div class="itens-do-menu">
+<a href=",,/index.html">inicio</a>
+</div>
+</div class='itens-do-menu-active'>
+informações pessoais
+</div>
+<div class="itens-do-menu"
+<a href="../pages/objetivos-profissionais.html"> objetivos profissionais </a>
+</div>
+<div class="itens-do-menu"
+<a href="..pages/curriculo.html">curriculo</a>
+</div>
+<div class="itens-do-menu">
+<a href="../pages/portifolio.html">contato</a>
+</div>
+<div class="itens-do-menu">
+<a href="../pages/pagina-de-contato.html">contato</a>
+</div>
+</div>
+<!-- c

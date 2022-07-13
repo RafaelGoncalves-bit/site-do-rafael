@@ -1,0 +1,99 @@
+#tudo{
+min-height: 100%;
+position: relative;
+}
+
+.topo{
+    background-color: #00C2FF; 
+    font-size: 16px;
+    padding: 75px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+}
+
+#menu{
+   width: auto;
+   margin: auto;
+   background-color: whitesmoke;
+   padding-left: 80px;
+   border-bottom: solid  1px  black;
+}
+
+.itens-do-menu{
+   display: inline-block;
+   padding: 16px;
+   margin: 4px;
+   margin-right: 60px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;
+   width: auto;
+   background-color: whitesmoke;
+}
+
+.itens-do-menu-active{
+   display: inline-block;
+   padding: 16px;
+   margin: 4px;
+   margin-right: 60px;
+   text-align: center;
+   font-family: Arial, Helvetica, sans-serif;
+   font-size: 16px;
+   width: auto;
+   background-color: whitesmoke;
+   font-weight: bold;
+}
+
+a:hover{
+   font-weight: bold;
+}
+
+#rodape{
+    position: absolute;
+    bottom: 0;
+    background-color: #00C2FF;
+    padding-right: 1564px;
+    padding-top: 70px;
+
+}
+
+
+
+.foto{
+   float: left;
+   margin-left: 65px;
+   margin-top: 40px;
+   margin-right: 32px;
+}
+
+.texto{
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 20px;
+   margin-top: 100px;
+   line-height: 30px;
+}
+
+.texto-2{
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+   padding: 20px;
+   margin-top: 100px;
+   line-height: 30px;
+}
+
+.foto-de-contato{
+   float: left;
+   margin-left: 65px;
+   margin-top: 90px;
+   margin-right: 32px;
+}
+
+.foto-de-contato-2{
+   float: left;
+   margin-left: 65px;
+   margin-top: 90px;
+   margin-right: 32px;
+   width: 100px;
+}
